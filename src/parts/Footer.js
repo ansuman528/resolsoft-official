@@ -1,7 +1,3 @@
-/* eslint-disable linebreak-style */
-/* eslint-disable react/jsx-filename-extension */
-/* eslint-disable import/extensions */
-
 import React from 'react';
 
 import BrandIcon from './BrandIcon';
@@ -26,7 +22,7 @@ export default function Footer() {
               Office
             </h1>
             <p className="text-lg text-gray-400 font-light">
-              rac.hafidz@gmail.com
+              resolsoftopc@gmail.com
             </p>
             <p className="text-lg text-gray-400 font-light">
               Bengaluru , karnataka , 560097

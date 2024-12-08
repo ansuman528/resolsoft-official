@@ -1,6 +1,3 @@
-/* eslint-disable import/no-extraneous-dependencies */
-/* eslint-disable global-require */
-/* eslint-disable import/extensions */
 /** @type {import('tailwindcss').Config} */
 
 import { fontFamily as _fontFamily } from 'tailwindcss/defaultTheme';
